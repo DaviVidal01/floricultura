@@ -12,4 +12,4 @@
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"> --HTML5 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"> --CSS3
 
-<img src="https://wallpapercave.com/wp/wp6930014.jpg">
+<img width="800px" src="https://wallpapercave.com/wp/wp6930014.jpg">
